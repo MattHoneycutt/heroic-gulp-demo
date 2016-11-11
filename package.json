@@ -1,0 +1,19 @@
+{
+  "name": "heroic-gulp-demo",
+  "version": "1.0.0",
+  "description": "A simple project that shows how you can install and use heroic-gulp.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Matt Honeycutt (mbhoneycutt@gmail.com)",
+  "license": "MIT",
+  "dependencies": {
+    "angular": "^1.5.8",
+    "bootstrap-sass": "^3.3.7",
+    "lodash": "^4.16.5"
+  },
+  "devDependencies": {
+    "heroic-gulp": "1.0.1"
+  }
+}
